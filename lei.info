@@ -1,0 +1,5 @@
+name = Lei
+description = Garland, for administrative use.
+core = 7.x
+base theme = garland
+
