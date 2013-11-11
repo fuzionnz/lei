@@ -2,5 +2,5 @@ name = Lei
 description = Garland, for administrative use.
 core = 7.x
 base theme = garland
-stylesheets[all][] = css/lei.css
-
+stylesheets[all][] = style.css
+stylesheets[all][] = lei.css
