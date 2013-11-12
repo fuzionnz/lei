@@ -4,3 +4,4 @@ core = 7.x
 base theme = garland
 stylesheets[all][] = style.css
 stylesheets[all][] = lei.css
+settings[lei_width] = full
