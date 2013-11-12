@@ -1,0 +1,8 @@
+/**
+ *
+ */
+/* Unset container width when we are using the "fluid width" option. */
+body.full-width #wrapper #container {
+  width: auto;
+  max-width: 100%;
+}
